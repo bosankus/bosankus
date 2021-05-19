@@ -12,7 +12,7 @@
 
 ## My current activities
 - 🔭 I’m currently working on project [Ahead](https://github.com/bosankus/Ahead)
-- 🌱 I’m currently learning Jetpack compose & brushing DSA 😷
+- 🌱 I’m currently brushing DSA 😷
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with career transition to android developer job
 - 💬 Ask me about Android , Terrorist financing & Tax heavens😉
