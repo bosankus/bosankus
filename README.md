@@ -10,6 +10,8 @@
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-444444?style=flat-square&logo=firebase&logoColor=dark" />
 </P>
 
+Dedication + Perseverence = Success
+
 ## My current activities
 - 🔭 I’m currently working on project [Ahead](https://github.com/bosankus/Ahead)
 - 🌱 I’m currently brushing DSA 😷
@@ -18,8 +20,7 @@
 - 💬 Ask me about Android , Terrorist financing & Tax heavens😉
 - 📫 How to reach me: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
 - ⚡ Critical fact: Lockdown turned me tripple digit weighing person 🤯
-- 💼 Real fact: My job profile belongs to Financial Crime Department of a Bank 😶 But my passion belongs to Android 🤩
-
+- 💼 Career fact: I recently made a career transition from banking professional to a software engineer lead at Capgemini India.
 
 
 ![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosankus&theme=dark&show_icons=true)
