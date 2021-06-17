@@ -14,13 +14,12 @@ Dedication + Perseverence = Success
 
 ## My current activities
 - 🔭 I’m currently working on project [Ahead](https://github.com/bosankus/Ahead)
-- 🌱 I’m currently brushing DSA 😷
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with career transition to android developer job
+- 🌱 I’m currently learning more about Android app data security & brushing data structures.  😷
+- 👯 I’m open to collaborate on open source projects
 - 💬 Ask me about Android , Terrorist financing & Tax heavens😉
 - 📫 How to reach me: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
-- ⚡ Critical fact: Lockdown turned me tripple digit weighing person 🤯
 - 💼 Career fact: I recently made a career transition from banking professional to a software engineer lead at Capgemini India.
+- ⚡ Critical fact: Lockdown turned me tripple digit weighing person 🤯
 
 
 ![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosankus&theme=dark&show_icons=true)
