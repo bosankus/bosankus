@@ -21,6 +21,7 @@ Dedication + Perseverence = Success
 - 💼 Career fact: I recently made a career transition from banking professional to a software engineer lead at Capgemini India.
 - ⚡ Critical fact: Lockdown turned me tripple digit weighing person 🤯
 
+Want to get freelanced? visit https://androidplay.in/ or drop a mail at ankush@androidplay.in
 
 ![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosankus&theme=dark&show_icons=true)
 <a href="https://github.com/bosankus">
