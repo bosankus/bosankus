@@ -13,8 +13,8 @@
 Dedication + Perseverence = Success
 
 ## My current activities
-- 🔭 I’m currently working on project [Ahead](https://github.com/bosankus/Ahead)
-- 🌱 I’m currently learning more about Android app data security & brushing data structures.  😷
+- 🔭 I’m currently working on Jetpack Compose
+- 🌱 I’m currently learning more about JC, Android app data security & brushing data structures.  😷
 - 👯 I’m open to collaborate on open source projects
 - 💬 Ask me about Android , Terrorist financing & Tax heavens😉
 - 📫 How to reach me: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
