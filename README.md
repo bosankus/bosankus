@@ -1,4 +1,5 @@
-### Hi, I am Ankush Bose
+### Hi, I am Ankush Bose,
+## Android Developer at Capgemini
 
 
 <img src="https://komarev.com/ghpvc/?username=bosankus&label=Views&color=blue&style=plastic" alt="bosankus" />  [![Linkedin: boseankus](https://img.shields.io/badge/-Ankush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boseankus/)](https://www.linkedin.com/in/boseankus/)  [![GitHub bosankus](https://img.shields.io/github/followers/bosankus?label=follow&style=social)](https://github.com/bosankus)
@@ -14,11 +15,10 @@ Dedication + Perseverence = Success
 
 ## My current activities
 - 🔭 I’m currently working on Jetpack Compose
-- 🌱 I’m currently learning more about JC, Android app data security & brushing data structures.  😷
-- 👯 I’m open to collaborate on open source projects
-- 💬 Ask me about Android , Terrorist financing & Tax heavens😉
+- 🌱 I’m currently learning more about app data security, SOLID & brushing data structures.  😷
+- 👯 I’m open to collaborate on open source projects.
+- 💬 Ask me about Android, Kotlin , Terrorist financing & Tax heavens😉
 - 📫 How to reach me: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
-- 💼 Career fact: I recently made a career transition from banking professional to a software engineer lead at Capgemini India.
 - ⚡ Critical fact: Lockdown turned me tripple digit weighing person 🤯
 
 Want to get freelanced? visit https://androidplay.in/ or drop a mail at ankush@androidplay.in
