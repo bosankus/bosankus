@@ -11,8 +11,6 @@
 ## Hi, I am Ankush Bose,
 ### Android Developer at Capgemini
 
-Dedication + Perseverence = Success
-
 ## My current activities
 - 🔭 I’m currently working on Jetpack Compose
 - 🌱 I’m currently learning more about app data security, SOLID & brushing data structures.  😷
