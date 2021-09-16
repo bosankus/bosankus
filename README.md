@@ -20,12 +20,4 @@
 
 Want to get freelanced? visit https://androidplay.in/ or drop a mail at ankush@androidplay.in
 
-![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosankus&theme=dark&show_icons=true)
-<a href="https://github.com/bosankus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosankus&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/bosankus/Ahead">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosankus&repo=Ahead&theme=dark" />
-</a>
-
 ### Show some ❤️ by starring some of the repositories!
