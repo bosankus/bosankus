@@ -8,8 +8,7 @@
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-444444?style=flat-square&logo=firebase&logoColor=dark" />
 </P>
 
-### Hi, I am Ankush Bose, Android Developer at Capgemini
-
+### Hi, I am Ankush Bose, Android Developer.
 ## My current activities
 - 🔭 I’m currently working on Jetpack Compose
 - 🌱 I’m currently learning more about app data security, SOLID & brushing data structures.  😷
