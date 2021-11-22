@@ -10,13 +10,10 @@
 
 ### Hi, I am Ankush Bose, Android Developer.
 ## My current activities
-- 🔭 I’m currently working on Jetpack Compose
-- 🌱 I’m currently learning more about app data security, SOLID & brushing data structures.  😷
-- 👯 I’m open to collaborate on open source projects.
-- 💬 Ask me about Android, Kotlin , Terrorist financing & Tax heavens😉
-- 📫 How to reach me: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
-- ⚡ Critical fact: Lockdown turned me tripple digit weighing person 🤯
+🌱 Growing my existing knowledge about Android & Kotlin. An active contributor at [Anitab-org](https://github.com/anitab-org/mentorship-android)
+
+📫 Connect & talk via: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
 
 Want to get freelanced? visit https://androidplay.in/ or drop a mail at ankush@androidplay.in
 
-### Show some ❤️ by starring some of the repositories!
+##### Do help me to learn more by starring ❤️ some repos. That will boost my confidence and help me reach my goal.
