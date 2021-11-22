@@ -9,11 +9,11 @@
 </P>
 
 ### Hi, I am Ankush Bose, Android Developer.
-## My current activities
-🌱 Growing my existing knowledge about Android & Kotlin. An active contributor at [Anitab-org](https://github.com/anitab-org/mentorship-android)
 
-📫 Connect & talk via: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
+🌱 Currently growing the knowledge about Android & Kotlin. An active contributor at [Anitab-org](https://github.com/anitab-org/mentorship-android)
 
-Want to get freelanced? visit https://androidplay.in/ or drop a mail at ankush@androidplay.in
+📫 Connect via: [Linkedin - boseankus](https://www.linkedin.com/in/boseankus) | [Instagram - @ud_gaye](https://www.instagram.com/ud_gaye/)
 
-##### Do help me to learn more by starring ❤️ some repos. That will boost my confidence and help me reach my goal.
+🐦 For work, visit [Androidplay](https://androidplay.in/) or drop a [mail](ankush@androidplay.in). Typically replies within 9 hours.
+
+##### Do star ❤️ some repos if you like the code pattern, project type, architecture pattern and overall app. That will boost my confidence and help me reach my goal. Available to talk and share knowledge.
