@@ -16,8 +16,8 @@ Senior Android Engineer with 9+ years of building and shipping Android apps at s
 
 ### Work
 
-- **HSBC UK Mobile Banking**: Android engineering on a retail banking app with 5M+ downloads.
 - **Stellantis connected-car app (Jeep platform)**: Android app and a Kotlin Multiplatform SDK in production, 1M+ downloads.
+- **HSBC UK Mobile Banking**: Android engineering on a retail banking app with 5M+ downloads.
 - **Wikipedia for Android**: contributions to the Wikimedia Foundation's open-source app.
 
 ### Building
