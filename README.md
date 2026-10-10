@@ -86,9 +86,9 @@ data class Ankush(
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
-  <img width="100%" alt="3D contribution chart" src="./profile-3d-contrib/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bosankus/bosankus/main/profile-3d-contrib/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bosankus/bosankus/main/profile-3d-contrib/profile-green-animate.svg"/>
+  <img width="100%" alt="3D contribution chart" src="https://raw.githubusercontent.com/bosankus/bosankus/main/profile-3d-contrib/profile-night-green.svg"/>
 </picture>
 
 ---
