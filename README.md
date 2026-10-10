@@ -63,13 +63,13 @@ data class Ankush(
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hilt-2E7D32?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM%20%7C%20Clean%20Arch-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JUnit%20%7C%20Espresso-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Auto%20%7C%20AAOS-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines and Flow"/>
+  <img src="https://img.shields.io/badge/Hilt-2E7D32?style=flat-square&logo=android&logoColor=white" alt="Hilt"/>
+  <img src="https://img.shields.io/badge/MVVM%20%7C%20Clean%20Arch-333333?style=flat-square" alt="MVVM and Clean Architecture"/>
+  <img src="https://img.shields.io/badge/JUnit%20%7C%20Espresso-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit and Espresso"/>
+  <img src="https://img.shields.io/badge/Android%20Auto%20%7C%20AAOS-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Auto and AAOS"/>
 </p>
 
 ---
@@ -85,11 +85,11 @@ data class Ankush(
   <img src="https://streak-stats.demolab.com?user=bosankus&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bosankus&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bosankus&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
+  <img width="100%" alt="3D contribution chart" src="./profile-3d-contrib/profile-night-green.svg"/>
+</picture>
 
 ---
 
